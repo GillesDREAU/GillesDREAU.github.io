@@ -1,0 +1,39 @@
+h1{
+font-size: 50px;
+text-align: center;
+color: #de7471
+}
+
+h2{
+font-size: 30px;
+text-align: center;
+color: #de7300
+}
+
+h3{
+font-size: 25px;
+text-align: center;
+color: #de7200
+}
+
+h4{
+font-size: 20px;
+text-align: center;
+color: #de7100
+}
+
+p{
+font-size: 15px;
+text-align: center;
+font-family: Helvetica, sans-serif;
+}
+
+a{
+font-size: 20px;
+text-align: right;
+font-family: Helvetica, sans-serif;
+}
+
+body {
+background-color: #007471;
+}
